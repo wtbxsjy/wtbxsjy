@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wtbxsjy
-- 👀 I’m a bioinformatic engneer in BGI-Shenzhen, mainly working on genomic, transcriptomic, proteomic, metabolomic and multiomics projects.
+- 👀 I’m a bioinformatic engneer/ clinical data analyst in BGI-Shenzhen, mainly working on genomic, transcriptomic, proteomic, metabolomic and multiomics clinical data analysis.
 - 🌱 My mainly coding in Perl and R, but also work with Java, Python and C.
 - 📫 If you have any question or collaborate intrests, please mailto:wtbxsjy@hotmail.com to reach me.
 
